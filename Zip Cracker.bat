@@ -9,7 +9,7 @@ if not exist "C:\Program Files\7-Zip" (
 
 set /p archive="Enter Archive: "
 if not exist %archive% (
-	echo Archive not found, please make sure it's the right path.".
+	echo Archive not found, please make sure it's the right path.
 	pause
 	exit
 )
