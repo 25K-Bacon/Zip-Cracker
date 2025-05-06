@@ -1,4 +1,4 @@
-This program takes lines from a text file and tries it as a zip password.
+This program takes every line from a text file and tries it as a zip password.
 
 NOTE: You need to have 7-Zip installed in "C:\Program Files\7-Zip".
 
